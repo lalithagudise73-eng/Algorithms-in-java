@@ -1,0 +1,8 @@
+Original Array:
+64 34 25 12 22 11 90
+
+Bubble Sorted Array:
+11 12 22 25 34 64 90
+
+Linear Search (22): Index = 2
+Binary Search (64): Index = 5
